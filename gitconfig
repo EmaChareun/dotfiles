@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emachareun@gmail.com
+	name = emanuel chareun
